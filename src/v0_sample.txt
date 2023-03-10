@@ -1,0 +1,9 @@
+Monopoly game #0023
+Round: 3
+|_Player_|_balance_|_properties (houses/hotel/mortgage)_|
+Player1: $1000 | Boardwalk (hotel - 5 houses), Park Place (hotel - 4 houses) |
+Player2: $1200 | Mediterranean Avenue (2 houses), Baltic Avenue (1 house) |
+Player3: $100 | Whitechapel Road (mortgaged) |
+
+Available actions: Manage Property | Offer Trade | Roll Dice | End Turn
+
