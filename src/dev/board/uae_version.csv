@@ -1,0 +1,35 @@
+Name,Type,Price,Rent,Color,Group
+GO,Corner,200,0,
+Dubai Mall,Property,220,20,Red,Shopping
+Burj Khalifa,Property,220,20,Red,Shopping
+Dubai Airport,Railroad,200,50,
+Yas Island,Property,240,20,Yellow,Amusement
+Ferrari World,Property,240,20,Yellow,Amusement
+Emirates Palace,Property,260,22,Green,Luxury
+Saadiyat Island,Property,260,22,Green,Luxury
+Burj Al Arab,Property,280,24,Green,Luxury
+Abu Dhabi Airport,Railroad,200,50,
+Sheikh Zayed Grand Mosque,Property,300,26,Blue,Religious
+Al Ain Oasis,Property,320,28,Blue,History
+Dubai Miracle Garden,Property,320,28,Blue,Nature
+Free Parking,Corner,0,0,
+Dubai Creek,Property,360,30,Purple,Waterside
+Jumeirah Beach,Property,360,30,Purple,Waterside
+Dubai Metro,Utility,150,0,
+Dubai Marina,Property,400,50,Orange,Marina
+The Palm Jumeirah,Property,440,35,Orange,Marina
+Chance,Chance,0,0,
+Dubai International Financial Centre,Property,480,40,Red,Business
+Abu Dhabi Corniche,Property,480,40,Red,Business
+Dubai Opera,Property,520,50,Yellow,Culture
+Sharjah Arts Museum,Property,520,50,Yellow,Culture
+Etisalat,Utility,150,0,
+Hatta Dam,Property,560,60,Green,Outdoor
+Jebel Jais,Property,600,70,Blue,Adventure
+Emirates Towers,Property,640,80,Purple,Luxury
+Luxury Tax,Tax,0,100,
+Sheikh Mohammed Centre for Cultural Understanding,Property,700,100,Orange,Culture
+Chance,Chance,0,0,
+Jebel Hafeet,Property,800,120,Red,Adventure
+Go To Jail,Corner,0,0,
+Atlantis, The Palm,Property,1000,200,Blue,Resort

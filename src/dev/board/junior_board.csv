@@ -1,0 +1,20 @@
+Name,Type,Price,Rent,Color,Group
+Go,Corner,0,0,
+Pet Store,Property,50,4,Blue,
+Toy Store,Property,50,4,Blue,
+Chance,Chance,0,0,
+Candy Store,Property,75,6,Purple,
+Ice Cream Parlor,Property,75,6,Purple,
+Jail,Corner,0,0,
+Pizza Place,Property,100,8,Orange,
+Burger Joint,Property,100,8,Orange,
+Free Parking,Corner,0,0,
+Arcade,Property,125,10,Red,
+Movie Theater,Property,125,10,Red,
+Chance,Chance,0,0,
+Water Park,Property,150,12,Yellow,
+Zoo,Property,150,12,Yellow,
+Go to Jail,Corner,0,0,
+Amusement Park,Property,200,16,Green,
+Toy Factory,Property,200,16,Green
+

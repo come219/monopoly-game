@@ -1,0 +1,36 @@
+Name,Type,Price,Rent,Color,Group
+GO,Corner,200,0,
+Akihabara,Property,220,20,Red,Electricity
+Nikko National Park,Property,220,20,Red,Electricity
+Tokyo Station,Railroad,200,50,
+Asakusa,Property,240,20,Yellow,Water
+Ueno Park,Property,240,20,Yellow,Water
+Mt. Fuji,Property,260,22,Green,Forest
+Shibuya Crossing,Property,260,22,Green,Forest
+Imperial Palace,Property,280,24,Green,Forest
+Osaka Station,Railroad,200,50,
+Kyoto,Property,300,26,Blue,Monument
+Kinkaku-ji,Property,320,28,Blue,Monument
+Fushimi Inari Shrine,Property,320,28,Blue,Monument
+Free Parking,Corner,0,0,
+Tsukiji Fish Market,Property,360,30,Purple,Seafood
+Himeji Castle,Property,360,30,Purple,Seafood
+Tokyo Skytree,Property,400,50,Orange,Tower
+Shinkansen,Utility,150,0,
+Shinjuku,Property,440,35,Orange,Tower
+Harajuku,Property,440,35,Orange,Tower
+Chance,Chance,0,0,
+Roppongi Hills,Property,480,40,Red,Entertainment
+Universal Studios Japan,Property,480,40,Red,Entertainment
+J-pop Summit,Property,520,50,Yellow,Entertainment
+Mt. Aso,Property,520,50,Yellow,Entertainment
+JAL,Utility,150,0,
+Nara Park,Property,560,60,Green,Wildlife
+Kamakura,Property,600,70,Blue,History
+Tokyo Tower,Property,640,80,Purple,Tower
+Luxury Tax,Tax,0,100,
+Senso-ji Temple,Property,700,100,Orange,Religious
+Chance,Chance,0,0,
+Okinawa Beach,Property,800,120,Red,Beach
+Go To Jail,Corner,0,0,
+Tokyo Disneyland,Property,1000,200,Blue,Amusement

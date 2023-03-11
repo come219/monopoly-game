@@ -1,0 +1,32 @@
+Properties in Monopoly World Edition:
+
+Paris: Champs-Élysées
+Paris: Eiffel Tower
+Paris: Orly Airport
+Paris: Gare du Nord
+Istanbul: Taksim Square
+Istanbul: Grand Bazaar
+Istanbul: Atatürk Airport
+Istanbul: Sirkeci Station
+New York: Times Square
+New York: Statue of Liberty
+New York: JFK Airport
+New York: Grand Central Terminal
+London: The Shard
+London: Big Ben
+London: Heathrow Airport
+London: King's Cross Station
+Tokyo: Tokyo Tower
+Tokyo: Tokyo Station
+Tokyo: Haneda Airport
+Tokyo: Shinjuku Station
+Hong Kong: Victoria Peak
+Hong Kong: Mong Kok
+Hong Kong: Hong Kong International Airport
+Hong Kong: Kowloon Station
+Sydney: Sydney Opera House
+Sydney: Circular Quay
+Sydney: Sydney Airport
+Sydney: Central Station
+Barcelona: La Rambla
+Barcelona: Sagrada Familia

@@ -1,0 +1,25 @@
+Monopoly Sample board map.
+
+   0     1  2  3  4  5  6  7  8  9  10
+   ______________________________________
+A |PssGO|  |  |  |  |  |  |  |  |  | Jail| A
+  |LndGo|__|__|__|__|__|__|__|__|__|_J.V.| 
+B |_____|                          |_____| B
+C |_____|                          |_____| C
+D |_____|                          |_____| D
+E |_____|                          |_____| E
+F |_____|                          |_____| F
+G |_____|                          |_____| G
+H |_____|__________________________|_____| H
+I |Go to|  |  |  |  |  |  |  |  |  | Free| I
+  |_Jail|__|__|__|__|__|__|__|__|__|_Park|
+
+
+
+[Legend of keys]:
+Property: A1: Mediterranean Avenue, A3: Baltic Avenue, ...
+Random card: Community Chest: A2, C4, Chance: B4, AA  
+Special spaces: A0: Go, A4: Tax,
+Railroads: A5, E10, I5, E1
+Empty spaces: A6, ...
+Owned spaces: Player1: A1, A3; Player2: none
