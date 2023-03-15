@@ -1,0 +1,52 @@
+    Top: North Africa, Right: Mid-east Africa, Bottom: Mid-west Africa, Left: South-Africa & Islands
+    
+    A    B  C  D  E  F  G  H  I  J  K  L  M  N  O
+   ______________________________________________________________________________________
+1 |PSSGO|B1|CC|B2|PY|RA|S1|Ch|S2|P1|PY|P2|RA|O1|O2|CC|R1|R2|JA|Y1|PY|Y2|Ch|RA|CC|___FREE| 1
+  |LNDGO|__|__|__|__|IL|__|nc|__|__|__|__|IL|__|__|__|__|__|IL|__|__|__|__|IL|__|___PARK|
+2 |BLUE2|                                                                       |^GREEN1| 2
+3 |_____|                                     			                            |_Chance| 3
+4 |PAY  |                                   			                              |^GREEN2| 7
+  |_____|                                                                       |___RAIL| 8
+5 |BLUE1|     Longest game ever-EDITION (Africa?)                               |_^BLUE1| 9
+  |_____|                                                                       |____Pay| 10
+5 |Chnce|     [15 x 5 (3x, 4x)]                                                 |_^BLUE2| 11
+  |_____|                                                                       |Communi| 12                         
+5 | RAIL|     (elevators,tickets, no 'go',                                      |____Pay| 13
+  |_____|                                                                       |_Chance| 14
+5 |GREN2|      no 'jail', university,	                                          |^BROWN1| 15
+  |_____|                                                                       |^BROWN2| 16
+5 |GREN1|      auction-house, stock-exchange)                                   |___RAIL| 17
+  |_____|                                                                       |Go2Jail| 18
+5 |YELL2|                                                                       |^SILVR1|
+  |_____|                                                                       |^SILVR2|
+5 |WATER|                                                                       |Communi|
+  |_____|                                                                       |_^PINK1|
+5 |YELL1|                                                                       |___RAIL|
+  |_____|                                                                       |_^PINK2|
+5 |Go to|                                                                       |___GO_2|
+  |_Jail|                                                                       |^ELECTR|      
+5 |^RED2|                                                                       |^ORANG1|
+  |_____|                                                                       |__RAIL_| 
+5 |Chnce|                                                                       |^ORANG2|
+  |_____|                                                                       |__PAY__| 
+5 |^RED1|                                                                       |Communi|
+  |_____|                                                                       |__^RED1| 
+5 |RAIL_|                                                                       |Chance_|
+  |_____|                                                                       |__^RED2|
+5 |PAY  |                                                                       |Communi|
+  |_____|                                                                       |^Yello1|
+5 |^ONG2|                                                                       |^WaterW|
+  |_____|                                                                       |^Yello2|
+  |Commu|^O|^P|^E|^P|RA|^S|^S|RA|^B|^B|   |  |  |  |  |  |FREE|B2|CC|B1|RA|G2|G1|Jail/JV|
+  |_____|G1|K2|LC|K1|IL|L2|L1|IL|N2|N1|___|__|__|__|__|__|PARK|__|__|__|IL|__|__|_______|
+   A     B  C                                                                      
+  
+      		            
+
+Property: B1: Mediterranean Avenue, A3: Baltic Avenue, ...
+Random card: Community Chest: A2, C4, Chance: B4, AA  
+Special spaces: A0: Go, A4: Tax,
+Railroads: A5, E10, I5, E1
+Elevators: H15,
+Tickets: A8, O8

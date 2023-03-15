@@ -1,3 +1,32 @@
+https://en.wikibooks.org/wiki/Monopoly/Mega_Edition_Properties_Reference
+
+
+Old Kent Road
+Whitechapel Road
+The Angel Islington
+Euston Road
+Pentonville Road
+Pall Mall
+Whitehall
+Northumberland Avenue
+Bow Street
+Marlborough Street
+Vine Street
+The Strand
+Fleet Street
+Trafalgar Square
+Leicester Square
+Coventry Street
+Piccadilly
+Regent Street
+Oxford Street
+Bond Street
+Park Lane
+Mayfair
+
+
+
+
 Name,Type,Price,Rent,Mortgage,HouseCost,Rent1,Rent2,Rent3,Rent4,Rent5,Reward,Penalty
 Go,Go,,0,,,,,,,,$200,
 Mediterranean Avenue,Property,60,2,30,50,10,30,90,160,250,,

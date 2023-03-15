@@ -1,0 +1,19 @@
+    A    B  C  D  E  F  G  
+   ___________________________
+1 |PssGO|  |  |Ch|  |  | Jail| 1
+  |LndGo|B1|B2|nc|S1|S2|_J.V.| 
+2 |_____|              |_____| 2
+3 |_____|              |_____| 3
+4 |_____| Junior Party |_____| 4
+5 |Commu| Thailand     |Commu| 5
+6 |_____|    7 x 9     |_____| 6
+7 |_____|              |_____| 7
+8 |_____|______________|_____| 8
+9 |Go to|  |  |Ch|  |  | Free| 9
+  |_Jail|__|__|nc|__|__|_Park|
+   A     B  C  D  E  F  G 
+
+Property: B1: _, B2: _, S1: _, ...
+Random card: Party Chest (Community Chest): A5, G5, Chance: D1, D9  
+Special spaces: A1: Go, Jail, GotoJail, Go, JustVisit
+Railroads: NA (free parking)

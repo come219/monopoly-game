@@ -1,0 +1,21 @@
+    A    B  C  D  E  F  G  H  I  J  K
+   ______________________________________
+1 |PssGO|  |  |  |  |  |  |  |  |  | Jail| 1
+  |LndGo|__|__|__|__|__|__|__|__|__|_J.V.| 
+2 |_____|                          |_____| 2
+3 |_____|                          |_____| 3
+4 |_____|                          |_____| 4
+5 |_____|   World Edition          |_____| 5
+6 |_____|    10 x 9                |_____| 6
+7 |_____|                          |_____| 7
+8 |_____|__________________________|_____| 8
+9 |Go to|  |  |  |  |  |  |  |  |  | Free| 9
+  |_Jail|__|__|__|__|__|__|__|__|__|_Park|
+   A     B  C  D  E  F  G  H  I  J  K
+
+
+
+Properties: B1: , A3: Baltic Avenue, ...	Las Vegas (Casino l-stand), Time Square (NYC), Eiffel Tower (Paris)
+Random card: Community Chest: A2, C4, Chance: B4, AA  
+Special spaces: A1: Go (can go to any map's go), A4: International-Tax,
+Railroads: F1:x, A5: Heathrow Airport, K5: Gare du Nord (Paris), F9: 

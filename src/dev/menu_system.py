@@ -32,7 +32,7 @@ class MonopolyMenu:
             print("Changing game settings... (Mode: {})".format(self.mode))
         elif option == "2":
             # code to view game instructions
-2            print("Viewing game instructions... (Mode: {})".format(self.mode))
+            print("Viewing game instructions... (Mode: {})".format(self.mode))
         elif option == "3":
             # code to change game mode
             print("Game modes:")
@@ -58,7 +58,7 @@ class MonopolyMenu:
                 print("Invalid mode number. Returning to options menu... (Mode: {})".format(self.mode))
 
 
-	elif option == "4":
+        elif option == "4":
                 # configure bots
                 print("Bot configuration menu:")
                 print("1. Change number of bots")

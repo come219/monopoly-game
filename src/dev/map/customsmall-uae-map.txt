@@ -1,0 +1,16 @@
+    A    B  C  D  E  F  G  H  I 
+   _________________________________
+1 |PssGO|Ch|  |PY|Co|RA|Go|  | Free| 1
+  |LndGo|nc|B1|  |mm|IL|ms|B2|_Spot| 
+2 |BLUE1|                    |Elect| 2
+3 |BLUE2|                    |Orng1| 3
+4 |RAIL_| CUSTOM SMALL UAE   |RAIL_| 4
+5 |_PAY_|  8 x 6 ( 2x)     |Orng2| 5
+9 |Go to|PY|WW|RA|Ch|R2|Co|R1|  Mos| 7
+  |_Jail|__|__|IL|nc|__|mm|__|__que|
+   A     B  C  D  E  F  G  H  I K
+
+Property: B1: _, A3: _, ...
+Random card: Chance: B1, E1, J1, J7, E7, B7  
+Special spaces: A1: Go, A4: Free spot (cafe), A9: go to free spot, k7: free parking, collect
+Railroads: F1, K4, F7, A

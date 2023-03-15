@@ -1,0 +1,17 @@
+    A    B  C  D  E  F  G  H  I 
+   ___________________________
+1 |PssGO|  |  |RA|Ch|  | JAIL| 1
+  |LndGo|B1|B2|IL|nc|S1|_J/V_ 
+2 |BLUE2|              |Elect| 2
+3 |BLUE1|              |PINk1| 3
+4 |PAY__| CUSTOM mini  |RAIL_| 4
+5 |RAIL_|  8 x 6 (1x)  |Orng1| 5
+6 |Gren1|              |Orng2| 5
+7 |Go to|Y2|WW|RA|Co|R1|MEGA | 7
+  |_Jail|__|__|IL|mm|__|_TAX_|
+   A     B  C  D  E  F  G  H  I K
+
+Property: B1: _, A3: _, ...
+Random card: Chance: B1, E1, J1, J7, E7, B7  
+Special spaces: A1: Go, A4: Free spot (cafe), A9: go to free spot, k7: free parking, collect
+Railroads: F1, K4, F7, A

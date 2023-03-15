@@ -1,0 +1,27 @@
+    A    B  C  D  E  F  G  H  I  J  K  L  M  N  O
+   ____________________________________________________
+1 |Unive|B1|CC|CN|B2|B3|RA|EL|PY|S1|S2|PY|S3|S4|Auction| 1
+  |rsity|__|__|__|__|__|IL|VT|__|__|__|__|__|__|House__| 
+2 |BLUE3|                                      |__PINK1| 2
+3 |PAY__|                                      |__Commu| 3
+4 |GIFT_|                                      |__PINK2| 4
+5 |BLUE2|  MEGA-EDITION (UK?)                  |__PINK3| 5
+6 |BLUE1|  [15 x 5 (3x, 4x)]                   |__PINK4| 6
+7 |PAY__|  (elevators,tickets, no 'go',        |___RAIL| 7
+8 |TRAVL|  no 'jail', university,	       |_TRAVEL| 8
+9 |_RAIL|  auction-house, stock-exchange)      |____PAY| 9
+10|GREN4|				       |ORANGE1| 10
+11|Chnce|				       |ORANGE2| 11
+12|GREN3|				       |ORANGE3| 12
+13|GREE2|				       |_Chance| 13
+14|GREN1|		                       |ORANGE4| 14
+15|Jack |Y4|Y3|PY|Y2|Y1|PY|EL|RA|R4|R3|R2|CC|R1|STOCK  | 15
+  |__pot|__|__|__|__|__|__|VT|IL|__|__|__|__|__|Exchnge|
+   A     B  C  D  E  F  G  H  I  J  K  L  M  N  O
+
+Property: B1: Mediterranean Avenue, A3: Baltic Avenue, ...
+Random card: Community Chest: A2, C4, Chance: B4, AA  
+Special spaces: A0: Go, A4: Tax,
+Railroads: A5, E10, I5, E1
+Elevators: H15,
+Tickets: A8, O8

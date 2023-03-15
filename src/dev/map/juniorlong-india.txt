@@ -1,0 +1,17 @@
+    A    B  C  D  E  F  G  H  I  J  K
+   ______________________________________
+1 |PssGO|Ch|  |  |Ch|RA|  |  |PY|Ch| Free| 1
+  |LndGo|nc|B1|B2|nc|IL|S1|S2|_2|nc|_Spot| 
+2 |_____|                          |PINK1| 2
+3 |_____|                          |PINK2| 3
+4 |RAIL_| JUNIOR LONG INDIA        |RAIL_| 4
+5 |_____|   10 x 7 ( 2x)           |ORNG1| 5
+6 |_____|                          |ORNG2| 6
+9 |Go to|Ch|PY|  |  |RA|Ch|  |  |Ch| Free| 7
+  |_Spot|nc|_2|__|__|IL|nc|__|__|nc|_Park|
+   A     B  C  D  E  F  G  H  I  J  K
+
+Property: B1: _, A3: _, ...
+Random card: Chance: B1, E1, J1, J7, E7, B7  
+Special spaces: A1: Go, A4: Free spot (cafe), A9: go to free spot, k7: free parking, collect
+Railroads: F1, K4, F7, A4

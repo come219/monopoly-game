@@ -1,0 +1,43 @@
+
+
+	SQL Database
+
+	Table: 
+		Map { map_id, map_name, players, datetime_lastupdate, datetime_, ..., ... }
+//?		Map_calc { map_id, map_square, 
+		Map_details { map_id, player_id, map_square, inJail,
+		Player_map { player_id, player_cash, player_properties, player_move, player_stay
+		Player_property { }
+		Player_hotelhouses { }
+		Player_stands { }
+
+	Functions:
+	
+		Map:
+			- get_maps/{id}
+			- get_players/{id}
+			- post_map(id)
+			- post_player(id)
+
+			- get_maps_pop/{id}
+			- post_map_pop(id)
+			- post_pop_add
+			- post_pop_remove
+
+			- post_new_day
+			- post_roll_dice
+			- post_move_player
+			- post_move_player_to_jail
+			- post_jail_bail_move
+			- post_jail_roll_move
+			- post_pay_rent
+			- post_pay_stands
+			- post_cantpay
+
+			- post_add_property
+
+			- post_add_houses
+			- post_add_hotel
+			
+			- post_add_stand	
+			- post_remove_stand

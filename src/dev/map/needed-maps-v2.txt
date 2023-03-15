@@ -1,0 +1,39 @@
+
+
+
+
+	Reference properties:									https://en.wikibooks.org/wiki/Monopoly/Mega_Edition_Properties_Reference
+
+✓  |*  main map: World Edition Map (modern Map):
+✓  |x  main2 map: Here & now edition map (classic Map): 
+☑  |*   uk board: 		mega edition board (uk property + 3/4 cards per set, 1 layer):		https://www.deviantart.com/flyswatppt214/art/Monopoly-The-Mega-Edition-My-own-created-board-796360636
+->  |*	 us board: 		2 layer board								https://fineartamerica.com/featured/monopoly-board-game-doc-braham.html
+->  |*	 europe board: 		3 layer board (includes france, italy, germany								https://neuhoffmedialafayette.com/2022/10/10/monopoly-debuts-longest-game-ever-board-game/
+✓	|*	 africa board: 		longest game ever board							https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/814xogAhSGL._AC_SL1500_.jpg
+☑   |*	 thailand board: junior party board
+✓	|*	 japan: classic board
+?	|?	  china: snakes & ladders board -> ?? (chess2 board 10x10)
+?	|?	  russia: chess board -> junior long board -> (CHANGE to chess/mobachess map)
+o	|x	  uae: 1x2 boards	(HARD TO DEFINE)
+o	|x	  nordic: multi 1x1 1x2 boards (SORRY GAME ??)
+✓   | *	  india: SNAKES & LADDERS	https://www.wikiwand.com/en/Snakes_and_ladders
+?	|?	  Oceania & south america, canada, antartica, north pole, greenland: new board with islands to cross ...
+
+?	jail-democracy -> cells & shower & main hall
+?	jail-international -> segregated graph
+✓	jail-communist -> chessboard 
+?	jail-alt1	-> just visiting and main hall
+?	jail-alt2	-> just visiting and very segregated graph
+?	jail-alt3	-> half chessboard (exile) can just re-enter
+?	jail-alt4	-> very small cell (banned or special, cannot leave
+?	jail-alt5	-> classic-cheater-board (Jail of international)
+
+	casinos: main map (las vegas), uk board, us board, europe board, china board, russia board,
+	mobachess-tourney: china, thailand, japan, uae, india, europe, oceania, russia
+	card-game: japan, uk, us, eu, thailand, china,
+	chess-tourney: russia, europe, us, uk
+	gyms: uk, us, ...
+	arenas: us, russia
+	horse-racing: uk, japan
+
+

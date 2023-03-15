@@ -1,0 +1,19 @@
+    A    B  C  D  E  F  G  H  I  J  K
+   ______________________________________
+1 |PssGO|  |  |  |  |  |  |  |  |  | Jail| 1
+  |LndGo|__|__|__|__|__|__|__|__|__|_J.V.| 
+2 |_____|                          |_____| 2
+3 |_____|                          |_____| 3
+4 |_____|                          |_____| 4
+5 |_____|   CLASSIC UK EDITION     |_____| 5
+6 |_____|    10 x 9                |_____| 6
+7 |_____|                          |_____| 7
+8 |_____|__________________________|_____| 8
+9 |Go to|  |  |  |  |  |  |  |  |  | Free| 9
+  |_Jail|__|__|__|__|__|__|__|__|__|_Park|
+   A     B  C  D  E  F  G  H  I  J  K
+
+Property: B1: Mediterranean Avenue, A3: Baltic Avenue, ...
+Random card: Community Chest: A2, C4, Chance: B4, AA  
+Special spaces: A0: Go, A4: Tax,
+Railroads: A5, E10, I5, E1
