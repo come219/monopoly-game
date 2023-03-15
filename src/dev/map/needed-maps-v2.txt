@@ -11,8 +11,8 @@
 ->  |*	 europe board: 		3 layer board (includes france, italy, germany								https://neuhoffmedialafayette.com/2022/10/10/monopoly-debuts-longest-game-ever-board-game/
 ✓	|*	 africa board: 		longest game ever board							https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/814xogAhSGL._AC_SL1500_.jpg
 ☑   |*	 thailand board: junior party board
-✓	|*	 japan: classic board
-?	|?	  china: snakes & ladders board -> ?? (chess2 board 10x10)
+✓	|*	 japan: classic board ... ?
+?	|?	  china: snakes & ladders board -> ?? (chess2 board 10x10) -> GO	100 layer go game, price of property = cost ((19*19*100) / ( total owned property) *50) ... rent formula from price for rent			// https://www.youtube.com/watch?v=61_QbjnjoSY&ab_channel=GoCaine-MultiplayerGoGame
 ?	|?	  russia: chess board -> junior long board -> (CHANGE to chess/mobachess map)
 o	|x	  uae: 1x2 boards	(HARD TO DEFINE)
 o	|x	  nordic: multi 1x1 1x2 boards (SORRY GAME ??)
