@@ -2,6 +2,17 @@
 
 	SQL Database
 
+
+
+	Notes:
+		- predefined Player: player_id, balance, (player-economy), etc...
+		- monopoly: map, property, hotelhouses
+		- er: player_...,
+
+		buying...multi...
+		trading ... different from normal trade?
+
+
 	Table: 
 		Map { map_id, map_name, players, datetime_lastupdate, datetime_, ..., ... }
 //?		Map_calc { map_id, map_square, 
@@ -41,3 +52,74 @@
 			
 			- post_add_stand	
 			- post_remove_stand
+
+		Monopoly-builder:
+
+			- in world-edition-map (main hub): start @ 'Go Hub' Allows to travel to any other 'Go' map or for any other 'Go' to return to 'Go Hub'
+			- resource tokens for: chance, community, next-day/sleep, square, trade
+			- resource token to create a 3d piece on the map board --> penthouse, count points... reset builder board / self prestige. -> add counters.
+
+
+		multiplayer-propery & level & tokens prestige-only once(?) per board reset
+
+Player-multiplayer:
+	- player_id
+	- player_level
+	- player_balance_international
+	- player_balance_pounds, player_balance_dollars
+	- get_player_multiplayer_position
+	- get_player_multiplayer_state
+	- player_save_location
+	- player_load_location
+	- roll-by-level:
+	
+	In monopoly & snakes&ladders maps...
+		This function is the player ability to move to from and around the maps...
+		Level 1: quantum schrodinger box: (0, 1) (bool val to val)
+		Level 2: coin flip: 0, 1
+		Level 3: thicc coin flip: 0, 1, 2 (side)
+		Level 4: four sided dice: 1,2,3,4
+		Level 5: noise generator -> number parser: 1,2,3,4,5  (char parser to val)
+		Level 6: dice, 1,2,3,4,5,6
+		Level 7: Spinner,
+		Level 8: plinko,
+
+
+		Level 99: 10 sided dice?
+
+	 	Level 120: double die: 1-12
+(150)	Level xx: 20 sided dic
+(512)	Level xx: triple die
+(1024)  Level xxxx: Yatzee - 5
+(2048)  Level xxxx: int number parser to val
+(4096)  Level xxxx: float number parser to val
+(8192)  Level xxxx: double number parser to val
+
+
+
+		In go:
+		level 1: chance to jump/place square or not
+		Level 2: ...
+		Level 99: jump/place square
+		Level 120: jump/place 2 squares, 2nd square chanced
+		Level 512: jump/place 3 squares, ...
+		Level 1024: jump/place 4 squares, ...
+		Level 2048: jump/place  7 squares, ...
+		level 4096: jump/place 9 squares, ...
+		level 8192: jump/place 9 squares, then jump/place again 1 square
+
+
+		In chess map:
+		Level 1: checker-style only.
+		Level 3: powered checker-style.
+		Level 9: pawn style/ changes direction on side-hit
+		Level 12: Lord-pawn style
+		Level 15: powered pawn style (king)
+		Level 99: powered king (2 squares)
+		Level 120: knight
+		Level 512: bishop
+		Level 1024: rook
+		Level 2048: queen
+		Level 4096: chancellor
+		Level 8192: Prophet
+

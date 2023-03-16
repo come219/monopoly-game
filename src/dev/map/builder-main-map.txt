@@ -1,0 +1,31 @@
+    A    B  C  D  E  F  G  H  I  J  K
+   ______________________________________
+1 |GoHub|B1|RE|B2|BI|S1|Ch|S2|  |  | Jail| 1
+  |LndGo|__|S1|__|LD|__|nc|__|__|__|_J.V.| 
+2 |_____|       _______            |_____| 2
+3 |_____|       |  |XX|__          |_____| 3
+4 |_____| ______|__|XX|XX|__       |_____| 4
+5 |_____| |  |  |XX|XX|__|XX|      |_____| 5
+6 |_____| |__|__|__|__|XX|__|      |_____| 6
+7 |_____|             |__|         |_____| 7
+8 |_____|__________________________|_____| 8
+9 |Go to|  |  |  |  |  |  |  |  |  | Free| 9
+  |_Jail|__|__|__|__|__|__|__|__|__|_Park|
+   A     B  C  D  E  F  G  H  I  J  K
+
+
+Go Hub -> Free square -> Brown 1 -> Community Chest -> Resource Square -> Brown 2 -> Rail Hub
+Justvisit/jail        Silver2 <-  Chance           <- Portal Square  <- Silver1 <-
+
+
+
+Rail Hub -> Go to any railroad on any map... cannot return unless its a community card/chance/thing
+Portal square -> one-way ticket to any map region...
+
+
+
+
+Property: B1: Mediterranean Avenue, A3: Baltic Avenue, ...
+Random card: Community Chest: A2, C4, Chance: B4, AA  
+Special spaces: A0: Go, A4: Tax,
+Railroads: A5, E10, I5, E1

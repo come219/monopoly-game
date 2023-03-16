@@ -1,0 +1,61 @@
+[Reference maps]:
+
+	NAME 					URL	
+	Mega Edition Property 	https://en.wikibooks.org/wiki/Monopoly/Mega_Edition_Properties_Reference
+	World Edition Monopoly	_
+	Here & Now Edition ...	_
+	UK vs US monopoly		_
+	Mega edition board:		https://www.deviantart.com/flyswatppt214/art/Monopoly-The-Mega-Edition-My-own-created-board-796360636
+	2-layer board: 			https://fineartamerica.com/featured/monopoly-board-game-doc-braham.html
+	3-layer board:			https://neuhoffmedialafayette.com/2022/10/10/monopoly-debuts-longest-game-ever-board-game/
+	Longest game ever		https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/814xogAhSGL._AC_SL1500_.jpg
+	Go multiplayer vid		https://www.youtube.com/watch?v=61_QbjnjoSY&ab_channel=GoCaine-MultiplayerGoGame
+	Snakes&Ladders   		https://www.wikiwand.com/en/Snakes_and_ladders
+	Chinatown edition		https://i.pinimg.com/564x/be/fa/d2/befad2406049f81f2ece7a962d57a0fb.jpg
+	builder					https://i.ytimg.com/vi/rg_tX7gw_Ms/maxresdefault.jpg
+	
+
+
+	Unimplemented:
+	(chess2 board 10x10)
+	(junior long board)
+	(SORRY GAME ??)
+	(new board with islands to cross ...)
+
+	Implemented:
+	Main Map	|	monopoly-builder-map	(custom modern map)
+	Main 2 Map	|	Here & Now Edition map	(expensive map)
+	UK board	| 	classic? or (mega - 3/4 cards per set, 1 layer)
+	US board	|	2 layer board
+	EU board	| 	3 layer board	(includes france, italy, germany, ...	
+	Africa board|	longest game ever board
+	Thailand	| 	Junior party board (2x2 2x2 2x2 2x2)
+	Japan		| 	classic board?
+	China		| 	100 layer go game, price of property = cost ((19*19*100) / ( total owned property) *50) ... rent formula from price for rent
+	Russia 		| 	chess/mobachess map
+	UAE			|   1x2 boards	(HARD TO DEFINE)
+	Nordic		|   multi 1x1 1x2 boards 
+	India		|   SNAKES & LADDERS
+	Oceania, antartica  
+	S.America	|
+	canada		|
+	north pole, greenland
+
+?	jail-democracy -> cells & shower & main hall
+?	jail-international -> segregated graph
+✓	jail-communist -> chessboard 
+?	jail-alt1	-> just visiting and main hall
+?	jail-alt2	-> just visiting and very segregated graph
+?	jail-alt3	-> half chessboard (exile) can just re-enter
+?	jail-alt4	-> very small cell (banned or special, cannot leave
+?	jail-alt5	-> classic-cheater-board (Jail of international)
+
+	casinos: main map (las vegas), uk board, us board, europe board, china board, russia board,
+	mobachess-tourney: china, thailand, japan, uae, india, europe, oceania, russia
+	card-game: japan, uk, us, eu, thailand, china,
+	chess-tourney: russia, europe, us, uk
+	gyms: uk, us, ...
+	arenas: us, russia
+	horse-racing: uk, japan
+
+
