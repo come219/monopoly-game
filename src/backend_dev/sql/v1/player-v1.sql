@@ -1,0 +1,10 @@
+CREATE TABLE player_v1 (
+  player_id INT NOT NULL AUTO_INCREMENT,
+  player_name VARCHAR(50) NOT NULL,
+  player_email VARCHAR(100) NOT NULL UNIQUE,
+  player_password VARCHAR(100) NOT NULL,
+  player_balance DECIMAL(10, 2) NOT NULL DEFAULT 0,
+  player_created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
+  player_updated_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP,
+  PRIMARY KEY (player_id)
+);
